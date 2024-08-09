@@ -17,3 +17,14 @@
 ![pergaminho](https://github.com/user-attachments/assets/d158dad9-e813-4c86-92c4-a1e340042275)
 ![espada (1)](https://github.com/user-attachments/assets/4d575c1a-cee3-45ac-a5e8-6e26f0764f04)
 ![controle](https://github.com/user-attachments/assets/a97b1e56-d3b8-4653-bad4-c07ba9b41edb)
+
+links
+https://www.flaticon.com/br/icone-gratis/pergaminho_6799513?term=pergaminho&page=1&position=3&origin=search&related_id=6799513
+https://www.flaticon.com/br/icone-gratis/furgao_635759?term=van&page=1&position=8&origin=search&related_id=635759
+https://www.flaticon.com/br/icone-gratis/espada_95606?term=espada&page=1&position=10&origin=search&related_id=95606
+https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&position=18&origin=search&related_id=796714
+
+![controle (3)](https://github.com/user-attachments/assets/90c4c535-f0ba-416a-93a5-738a85fe4e48)
+![espada (3)](https://github.com/user-attachments/assets/af1dd083-3139-4049-b856-a58cfa37842d)
+![furgao (3)](https://github.com/user-attachments/assets/18369804-597d-45fc-abfd-503a3205a62b)
+![pergaminho (1)](https://github.com/user-attachments/assets/64b955c6-9add-474a-9341-e3b7469df56b)
