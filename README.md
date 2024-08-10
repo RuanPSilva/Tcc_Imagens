@@ -21,3 +21,5 @@ https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&pos
 ![espada (3)](https://github.com/user-attachments/assets/af1dd083-3139-4049-b856-a58cfa37842d)
 ![furgao (3)](https://github.com/user-attachments/assets/18369804-597d-45fc-abfd-503a3205a62b)
 ![pergaminho (1)](https://github.com/user-attachments/assets/64b955c6-9add-474a-9341-e3b7469df56b)
+
+![Ativo 22](https://github.com/user-attachments/assets/097cf1ae-c01e-4835-9095-5e26e353dfc2)
