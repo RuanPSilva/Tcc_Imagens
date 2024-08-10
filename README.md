@@ -3,6 +3,8 @@
 
 ![WhatsApp_Image_2024-08-08_at_08 10 22__1_-removebg-preview](https://github.com/user-attachments/assets/9669072e-9d88-4d80-ae89-685959810cb1)
 
+![WhatsApp_Image_2024-08-10_at_13 25 57_3db2ca62-removebg-preview](https://github.com/user-attachments/assets/a09f9f93-e9c5-4d14-add7-cb597d277a03)
+
 ![WhatsApp Image 2024-08-09 at 07 33 28](https://github.com/user-attachments/assets/5d747e3a-f96c-4341-b6bb-a0ec3fefcf44)
 
 ## botoes 2
