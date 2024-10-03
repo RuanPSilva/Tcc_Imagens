@@ -38,3 +38,4 @@ https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&pos
 #ferramentas<br>
 ![37283d3fb2ef8db3cee568018e55a551-removebg-preview](https://github.com/user-attachments/assets/602d2d39-bca2-48f6-937c-acc1846226d1)
 ![image](https://github.com/user-attachments/assets/6ddcc709-1359-4246-a317-5a7bf367f25e)
+![imgFerramentaSeuZe](https://github.com/user-attachments/assets/175d4f8f-51ae-45be-9c0b-5265cc109c20)
