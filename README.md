@@ -31,13 +31,16 @@ https://www.flaticon.com/br/icone-gratis/furgao_635759?term=van&page=1&position=
 https://www.flaticon.com/br/icone-gratis/espada_95606?term=espada&page=1&position=10&origin=search&related_id=95606
 https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&position=18&origin=search&related_id=796714
 
-#personagens<br>
+# personagens<br>
 ![Ativo 22](https://github.com/user-attachments/assets/097cf1ae-c01e-4835-9095-5e26e353dfc2)
 ![Ativo 25](https://github.com/user-attachments/assets/e3d1ce28-0d48-4d10-9d77-8449ffd7a709)
 ![Ativo 24](https://github.com/user-attachments/assets/2f6ef1ef-4b1a-40eb-8e16-033eda35ffc7)
 ![Ativo 23](https://github.com/user-attachments/assets/cf52d2f5-cbcc-4a45-8c3f-2ab0fd2fc9a9)
 
-#ferramentas<br>
-![37283d3fb2ef8db3cee568018e55a551-removebg-preview](https://github.com/user-attachments/assets/602d2d39-bca2-48f6-937c-acc1846226d1)
-![image](https://github.com/user-attachments/assets/6ddcc709-1359-4246-a317-5a7bf367f25e)
-![imgFerramentaSeuZe](https://github.com/user-attachments/assets/175d4f8f-51ae-45be-9c0b-5265cc109c20)
+# ferramentas<br>
+
+![enxada](https://github.com/user-attachments/assets/08145979-d8c6-48ef-9222-9f86079ec4e8)
+![garrafa 18_1](https://github.com/user-attachments/assets/b63eab7b-3866-4689-8f9a-a1ad9354e704)
+![cavaquinho_1](https://github.com/user-attachments/assets/a10310d6-ac10-4fef-8e05-b834aeb910b2)
+
+
