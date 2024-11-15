@@ -8,10 +8,11 @@
 ![WhatsApp Image 2024-08-09 at 07 33 28](https://github.com/user-attachments/assets/5d747e3a-f96c-4341-b6bb-a0ec3fefcf44)
 
 ## imagem fase
-![WhatsApp Image 2024-08-14 at 08 10 28](https://github.com/user-attachments/assets/876d417a-bed1-4bd6-86b9-b5a783f86ca8)
-![WhatsApp Image 2024-08-14 at 08 10 38](https://github.com/user-attachments/assets/b525e6ed-0148-4bab-a384-e991d8182747)
-![WhatsApp Image 2024-08-14 at 08 10 20](https://github.com/user-attachments/assets/e33db5f2-e7cf-40f1-b8d5-0b8ca22c622e)
-![d3e51367-6caf-4a9e-aa25-6aedfa505552](https://github.com/user-attachments/assets/d8033460-1d3c-4c48-86f3-67992411955f)
+![Posto](https://github.com/user-attachments/assets/876d417a-bed1-4bd6-86b9-b5a783f86ca8)
+![Mercado](https://github.com/user-attachments/assets/b525e6ed-0148-4bab-a384-e991d8182747)
+![Perseguição](https://github.com/user-attachments/assets/e33db5f2-e7cf-40f1-b8d5-0b8ca22c622e)
+![Invasão](https://github.com/user-attachments/assets/d8033460-1d3c-4c48-86f3-67992411955f)
+![Final](https://github.com/user-attachments/assets/f8d13af8-86aa-49a3-a041-497cbcc7982e)
 
 
 ## botoes 2
@@ -42,5 +43,6 @@ https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&pos
 ![enxada](https://github.com/user-attachments/assets/08145979-d8c6-48ef-9222-9f86079ec4e8)
 ![garrafa 18_1](https://github.com/user-attachments/assets/b63eab7b-3866-4689-8f9a-a1ad9354e704)
 ![cavaquinho_1](https://github.com/user-attachments/assets/a10310d6-ac10-4fef-8e05-b834aeb910b2)
+![Varinha](https://github.com/user-attachments/assets/1c5b5066-6bf4-4b9d-ac6f-a4787da03025)
 
 
