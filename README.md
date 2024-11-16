@@ -51,3 +51,12 @@ https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&pos
 ![Varinha](https://github.com/user-attachments/assets/1c5b5066-6bf4-4b9d-ac6f-a4787da03025)
 
 
+# Fotos Integrantes
+![FernandaLg](https://github.com/user-attachments/assets/bd078d8d-766a-4fdb-b0c2-a04b25c945eb)
+
+![CauaLg](https://github.com/user-attachments/assets/a4adf2bd-8d7f-430c-9b29-4c9db960b425)
+
+![RuanLg](https://github.com/user-attachments/assets/1e7dad10-19c5-4068-8964-953d32b4f006)
+
+![DaviLg](https://github.com/user-attachments/assets/b30eccfc-5ecb-4866-98c1-92a398b2152c)
+![DaviBan](https://github.com/user-attachments/assets/c68a8e6a-b641-40ba-9fc7-ec4839a0d93d)
