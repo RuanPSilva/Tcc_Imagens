@@ -26,7 +26,7 @@
 ![furgao (3)](https://github.com/user-attachments/assets/18369804-597d-45fc-abfd-503a3205a62b)
 ![pergaminho (1)](https://github.com/user-attachments/assets/64b955c6-9add-474a-9341-e3b7469df56b)
 
-links <br>
+
 https://www.flaticon.com/br/icone-gratis/pergaminho_6799513?term=pergaminho&page=1&position=3&origin=search&related_id=6799513
 https://www.flaticon.com/br/icone-gratis/furgao_635759?term=van&page=1&position=8&origin=search&related_id=635759
 https://www.flaticon.com/br/icone-gratis/espada_95606?term=espada&page=1&position=10&origin=search&related_id=95606
@@ -37,6 +37,11 @@ https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&pos
 ![Ativo 25](https://github.com/user-attachments/assets/e3d1ce28-0d48-4d10-9d77-8449ffd7a709)
 ![Ativo 24](https://github.com/user-attachments/assets/2f6ef1ef-4b1a-40eb-8e16-033eda35ffc7)
 ![Ativo 23](https://github.com/user-attachments/assets/cf52d2f5-cbcc-4a45-8c3f-2ab0fd2fc9a9)
+![79e5c4f2-301a-493d-9bb9-d86fb090a524-removebg-preview](https://github.com/user-attachments/assets/54c6eb78-bb9a-4cf8-87f2-002112e82ebc)
+![6c129b33-5c91-44cb-98f4-c8131ed3400d-removebg-preview](https://github.com/user-attachments/assets/2b7dcb13-9ef3-463c-b5ed-4273c21a2087)
+![a84bd655-4405-46d3-b43b-4168698c3e42-removebg-preview](https://github.com/user-attachments/assets/7e8c28f7-e3ee-46f6-94bc-7ab78a2658ec)
+
+
 
 # ferramentas<br>
 
