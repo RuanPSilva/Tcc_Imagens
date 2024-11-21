@@ -57,6 +57,8 @@ https://www.flaticon.com/br/icone-gratis/controle_796714?term=control&page=1&pos
 ![CauaLg](https://github.com/user-attachments/assets/a4adf2bd-8d7f-430c-9b29-4c9db960b425)
 
 ![RuanLg](https://github.com/user-attachments/assets/1e7dad10-19c5-4068-8964-953d32b4f006)
+![RuanBanner](https://github.com/user-attachments/assets/d6189e13-c724-4ef3-9bf9-844067c53ef6)
+![GabrielLg](https://github.com/user-attachments/assets/7cc9201d-338c-410a-95df-d7ddaf5a41b7)
 
 ![DaviLg](https://github.com/user-attachments/assets/b30eccfc-5ecb-4866-98c1-92a398b2152c)
 ![DaviBan](https://github.com/user-attachments/assets/c68a8e6a-b641-40ba-9fc7-ec4839a0d93d)
